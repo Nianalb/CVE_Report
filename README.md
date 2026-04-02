@@ -1,2 +1,2 @@
 # Report
-A vulnerable online banking system for security testing and education. Contains SQL injection flaws for learning purposes.
+CVE报告提交处
